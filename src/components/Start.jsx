@@ -33,15 +33,13 @@ const Start = () => {
                 We know the best solution for all of your business ideas and we
                 can help you solve all business problems
               </p>
-              <div className="d-flex align-items-center justify-content-lg-start justify-content-center">
-                <button
-                  className="nav_btn mt-3"
-                  data-aos="fade-right"
-                  data-aos-offset="600"
-                  data-aos-easing="ease-in-sine"
-                >
-                  Get started
-                </button>
+              <div
+                className="d-flex align-items-center justify-content-lg-start justify-content-center"
+                data-aos="fade-right"
+                data-aos-offset="600"
+                data-aos-easing="ease-in-sine"
+              >
+                <button className="nav_btn mt-3 transition_300">Get started</button>
               </div>
             </Col>
             <Col lg={6}>

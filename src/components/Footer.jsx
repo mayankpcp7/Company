@@ -25,24 +25,24 @@ const Footer = () => {
               data-aos-duration="500"
             >
               <div className="d-flex flex_column gap-4 gap-md-0 mb-4 mb-md-0 align-items-center">
-                <a className="ff_dm fs_sm fw-medium opacity_80 px-xl-3 px-2 bold_hover transition_300 ">
+                <a className="ff_dm fs_sm fw-medium opacity_80 px-xl-3 px-2 bold_hover transition_300 c_pointer">
                   Home
                 </a>
-                <a className="ff_dm fs_sm fw-medium opacity_80 px-xl-3 px-2 bold_hover transition_300 ">
+                <a className="ff_dm fs_sm fw-medium opacity_80 px-xl-3 px-2 bold_hover transition_300 c_pointer">
                   Your benefits
                 </a>
-                <a className="ff_dm fs_sm fw-medium opacity_80 px-xl-3 px-2 bold_hover transition_300 ">
+                <a className="ff_dm fs_sm fw-medium opacity_80 px-xl-3 px-2 bold_hover transition_300 c_pointer">
                   Our process
                 </a>
               </div>
               <div className="d-flex flex_column gap-4 gap-md-0 align-items-center">
-                <a className="ff_dm fs_sm fw-medium opacity_80 px-xl-3 px-2 bold_hover transition_300 ">
+                <a className="ff_dm fs_sm fw-medium opacity_80 px-xl-3 px-2 bold_hover transition_300 c_pointer">
                   Our works
                 </a>
-                <a className="ff_dm fs_sm fw-medium opacity_80 px-xl-3 px-2 bold_hover transition_300 ">
+                <a className="ff_dm fs_sm fw-medium opacity_80 px-xl-3 px-2 bold_hover transition_300 c_pointer">
                   Testimonials
                 </a>
-                <a className="ff_dm fs_sm fw-medium opacity_80 px-xl-3 px-2 bold_hover transition_300 ">
+                <a className="ff_dm fs_sm fw-medium opacity_80 px-xl-3 px-2 bold_hover transition_300 c_pointer">
                   Start a project
                 </a>
               </div>
